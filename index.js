@@ -59,3 +59,4 @@ module.exports = function(thorin, opt, pluginName) {
   }
   return apiObj;
 };
+module.exports.publicName = 'auth-unloq';
