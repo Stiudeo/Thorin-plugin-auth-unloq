@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-auth-unloq",
   "author": "Stiudeo",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "dependencies": {
     "unloq": "latest"
   },
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stiudeo/Thorin-plugin-auth-unloq"
+    "url": "https://github.com/Thorinjs/Thorin-plugin-auth-unloq"
   },
   "homepage": "http://thorinjs.com",
   "bugs": {
-    "url": "https://github.com/Stiudeo/Thorin-plugin-auth-unloq/issues"
+    "url": "https://github.com/Thorinjs/Thorin-plugin-auth-unloq/issues"
   }
 }
