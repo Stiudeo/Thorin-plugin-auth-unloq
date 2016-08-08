@@ -49,6 +49,9 @@ module.exports = function(thorin, opt, pluginName) {
     done();
   };
 
+  /* Expose the unloq API */
+  apiObj.api = apiObj;
+
   /* Expose the options */
   apiObj.options = opt;
 
