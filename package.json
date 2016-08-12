@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-auth-unloq",
   "author": "UNLOQ Systems",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "dependencies": {
     "unloq": "latest"
   },
