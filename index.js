@@ -28,9 +28,6 @@ module.exports = function(thorin, opt, pluginName) {
   if(!opt.key) {
     logger.fatal('Missing API Key');
   }
-  if(!opt.secret) {
-    logger.fatal('Missing API Secret');
-  }
 
   var apiObj = new unloq.Api({
     key: opt.key,
